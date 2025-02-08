@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I like solving problems<br>🎯 Create awesome things with awesome people <br>🎯 Create awesome things with awesome people <br>👨‍🏭 Check organizations for projects </p>
+<p align="left">📚 I like solving problems<br>🎯 Create awesome things with awesome people <br>👨‍🏭 Check organizations for projects </p>
 
 ###
 
